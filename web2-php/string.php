@@ -5,7 +5,7 @@
     "hello \"w\" ord";
     ?>
     <h2>concatenation Operator</h2>
-    <php 
+    <?php 
     echo "Hello " . "World!";
     ?>
 </body>
