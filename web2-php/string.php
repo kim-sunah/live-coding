@@ -8,5 +8,10 @@
     <?php 
     echo "Hello " . "World!";
     ?>
+    <h2>String length function</h2>
+    <?php
+    echo
+    strlen("hello \"w\" ord");
+    ?>
 </body>
 </html>
